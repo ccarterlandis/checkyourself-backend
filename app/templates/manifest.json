@@ -1,0 +1,21 @@
+{
+  "name": "Snapwat",
+  "short_name": "Snapwat",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#987fff",
+  "theme_color": "#987fff",
+  "description": "A doodling app for the web. A Progressive Web App demo.",
+  "icons": [
+    {
+      "src": "images/homescreen/192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/homescreen/512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
