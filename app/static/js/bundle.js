@@ -8046,7 +8046,7 @@
 
 	var hello = hello_all$1;
 	var PAGE_NAME$2 = PAGES.SNAPSHOT;
-
+ 
 	var backBtn = document.getElementById('btn-back-snapshot');
 	var tweetButton = document.getElementById('btn-share-twitter');
 	var drawingCanvas = document.getElementById('canvas-draw');
