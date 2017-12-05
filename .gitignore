@@ -99,3 +99,5 @@ ENV/
 
 # mypy
 .mypy_cache/
+my_model.h5
+.DS_Store
